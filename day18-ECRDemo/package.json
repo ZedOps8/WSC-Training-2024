@@ -1,0 +1,14 @@
+{
+  "name": "day18-ecrdemo",
+  "version": "1.0.0",
+  "description": "datbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gyanapriya Pradhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
