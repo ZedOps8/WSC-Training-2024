@@ -1,0 +1,14 @@
+{
+  "name": "day2--encryption",
+  "version": "1.0.0",
+  "description": "day 2 training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gyanapriya Pradhan",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.5.1"
+  }
+}
